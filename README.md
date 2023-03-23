@@ -1,1 +1,1 @@
-# Snapchat-Covid-Forecasting---Prophet
+# Snapchat-Covid-Forecasting using Prophet
